@@ -42,7 +42,6 @@ INSTALLED_APPS = [
     'blog',
     'social.apps.SocialConfig',
     'pages.apps.PagesConfig',
-    'froala_editor',
     'contact.apps.ContactConfig',
 ]
 
